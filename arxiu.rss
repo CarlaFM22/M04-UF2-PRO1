@@ -4,12 +4,66 @@
         <link>https://www.lavanguardia.com/</link>
         <description>Pagina web de noticias</description>
         <item>
+            <title>EE UU asegura que Rusia tiene desplegados más espías en México que en cualquier otro país</title>
+            <link>https://elpais.com/internacional/2022-03-24/ee-uu-asegura-que-rusia-tiene-desplegados-mas-espias-en-mexico-que-en-cualquier-otro-pais.html</link>
+            <description>El jefe del Comando Norte advierte al Senado de esfuerzos de interferencia rusa coordinados desde el sur de la frontera. La información emerge en medio de reclamos del embajador de EE UU por un acto en el Congreso mexicano en el que participaron diplomáticos del Kremlin</description>
+            <category>Política</category>
+            <pubDate date="2022-03-24">Jueves, 24 Marzo 2022</pubDate>
+            <author>Yolanda Mongue</author>
+        </item>
+        <item>
+            <title>Qué hará Elon Musk con Twitter</title>
+            <link>https://elpais.com/tecnologia/2022-04-25/que-hara-elon-musk-con-twitter.html</link>
+            <description><![CDATA[<img align="left" width="230" height="120" hspace="15" 
+                src="https://imagenes.elpais.com/resizer/Ee5ad3uPcm_dcWbCZ8XPDSM8wkI=/1200x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/2HZ7F72TAXHHXSNRUNEGSM3FMM.jpg"/>]]>La persona más rica del mundo acaba de comprar una de las plataformas más influyentes. ¿Para qué?</description>
+            <category>Economía</category>
+            <pubDate date="2022-04-25">Lunes, 25 Abril 2022</pubDate>
+            <author>Jordi Pérez Colomé</author>
+        </item>
+        <item>
+            <title>El Baskonia elimina al Valencia y jugará las semifinales de la ACB contra el Madrid</title>
+            <link>https://elpais.com/deportes/2022-05-30/el-baskonia-elimina-al-valencia-y-jugara-las-semifinales-de-la-acb-contra-el-madrid.html</link>
+            <description><![CDATA[<img align="left" width="230" height="120" hspace="15" 
+                src="https://imagenes.elpais.com/resizer/NnOW4iKowOabFN5pzBSCtboMdEc=/1200x0/filters:focal(1900x250:1910x260)/cloudfront-eu-central-1.images.arcpublishing.com/prisa/U7NL4ANA27FW3OTMJOUE4WQJEU.jpg"/>]]>El equipo vitoriano completa un fabuloso último cuarto y desmantela al conjunto local: 59-76</description>
+            <category>Deportes</category>
+            <pubDate date="2022-05-29">Domingo, 29 Mayo 2022</pubDate>
+            <author>Carlos García</author>
+        </item>
+        <item>
+            <title>El concierto más emocionante de Pablo Milanés en La Habana</title>
+            <link>https://elpais.com/cultura/2022-06-22/el-concierto-mas-emocionante-de-pablo-milanes-en-la-habana.html</link>
+            <description>El trovador cubano sella con una sentida actuación el reencuentro con su público después de casi tres años sin cantar en su tierra</description>
+            <category>Cultura</category>
+            <pubDate date="2022-06-22">Miercoles, 22 Junio 2022</pubDate>
+            <author>Maurio Vicent</author>
+        </item>
+        <item>
+            <title>EE UU ofrece a Rusia un intercambio de prisioneros para recuperar a la baloncestista Brittney Griner</title>
+            <link>https://okdiario.com/economia/bbva-incrementa-dividendo-octubre-50-hasta-12-centimos-accion-9741976</link>
+            <description>El secretario de Estado, Antony Blinken, ha desvelado este miércoles que Estados Unidos ha ofrecido un intercambio de prisioneros a Rusia. La propuesta, que fue “puesta sobre la mesa hace algunas semanas”, pretende recuperar a dos estadounidenses en manos de Moscú, la jugadora de baloncesto Brittney Griner y el exmarine Paul Whelan, quien fue condenado a 16 años de prisión en 2020. Griner, una de las máximas estrellas de la liga profesional WNBA, enfrenta un proceso judicial que podría acarrearle una pena de 10 años de ...
+            </description>
+            <category>Política</category>
+            <pubDate date="2022-07-27">Miercoles, 27 Julio 2022</pubDate>
+            <author>Luis Pablo Beauregard</author>
+        </item>
+        <item>
+            <title>El 41% de los adolescentes no sabe distinguir entre los mensajes de salud online verdaderos y los falsos
+            </title>
+            <link>https://okdiario.com/salud/41-adolescentes-no-sabe-distinguir-mensajes-salud-online-verdaderos-falsos-9583386</link>
+            <description><![CDATA[<img align="left" width="230" height="120" hspace="15" 
+                src="https://okdiario.com/img/2018/01/25/la-felicidad-y-el-uso-del-movil--que-dice-la-ciencia-2-655x368.jpg"/>]]>
+                Un nuevo estudio ha descubierto que a los adolescentes les cuesta discernir entre los mensajes de salud falsos y los verdaderos. Sólo el 48% de los participantes confiaba más en los mensajes de salud precisos (sin elementos editoriales) que en los falsos. </description>
+            <category>Cultura</category>
+            <pubDate date="2022-08-30">Martes, 30 Agosto 2022</pubDate>
+            <author>Carlos García</author>
+        </item>
+        <item>
             <title>BBVA incrementa su dividendo</title>
             <link>https://okdiario.com/economia/bbva-incrementa-dividendo-octubre-50-hasta-12-centimos-accion-9741976</link>
             <description><![CDATA[<img align="left" width="230" height="120" hspace="15" 
                 src="https://okdiario.com/img/2022/09/14/c-655x368.jpg"/>]]>BBVA pagará el próximo día 11 de octubre a sus accionistas un dividendo en efectivo de 12 céntimos de euro brutos por acción a cuenta de los resultados del pasado ejercicio...</description>
             <category>Economía</category>
-            <pubDate>2022-09-29</pubDate>
+            <pubDate date="2022-09-29">Jueves, 29 Septiembre 2022</pubDate>
             <author>Carlos García</author>
         </item>
         <item>
@@ -17,7 +71,7 @@
             <link>https://okdiario.com/opinion/podemos-atracar-bancos-merito-9873649</link>
             <description>Por mucho que se ampare en el derecho a la reinserción, que Podemos pretenda que su líder en Madrid, Luis Nieto, conocido por su condena por atracar un banco, sea el número 3 en la lista de la formación morada al Ayuntamiento de Madrid...</description>
             <category>Política</category>
-            <pubDate>2022-10-25</pubDate>
+            <pubDate date="2022-10-25">Martes, 25 Octubre 2022</pubDate>
             <author>Maria Lòpez</author>
         </item>
         <item>
@@ -26,7 +80,7 @@
             <description><![CDATA[<img align="left" width="230" height="120" hspace="15" 
                 src="https://okdiario.com/img/2022/11/27/previa-brasil-suiza-mundial-qatar-1800x1013-1-655x368.jpg"/>]]>Brasil afronta el día 1 sin un Neymar que habrá que ver si puede llegar al hipotético duelo de octavos de final del Mundial de Qatar. Para ello, los de Tite tendrán que sellar la clasificación y el duelo ante Suiza...</description>
             <category>Deportes</category>
-            <pubDate>2022-11-28</pubDate>
+            <pubDate date="2022-11-28">Lunes, 28 Noviembre 2022</pubDate>
             <author>Luís Gomez</author>
         </item>
         <item>
@@ -35,7 +89,7 @@
             <description><![CDATA[<img align="left" width="230" height="120" hspace="15" 
                 src="https://imagenes.elpais.com/resizer/tNIpVaCgTSSUOp52XjVLO55KUVE=/980x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/JDW5GB2DQ5KONOQRPYOO7O7GTQ.jpg"/>]]>Meta Platforms, empresa matriz de Facebook, ha acordado pagar 725 millones de dólares (682 millones de euros) para resolver una demanda colectiva que acusaba a la red social de compartir sin permiso datos de los usuarios...</description>
             <category>Cultura</category>
-            <pubDate>2022-12-27</pubDate>
+            <pubDate date="2022-12-27">Martes, 27 Diciembre 2022</pubDate>
             <author>Ramon Hernandez</author>
         </item>
         <item>
@@ -44,7 +98,7 @@
             <description><![CDATA[<img align="left" width="230" height="120" hspace="15" 
                 src="https://imagenes.elpais.com/resizer/QC3GlLaJ_cdlzr5AiXSoTEZytkQ=/980x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/3KTJOMNNMSDTUFYOO4UO5LIBEI.jpg"/>]]>Un hombre de 55 años ha muerto a puñaladas en una calle del barrio madrileño de Villa de Vallecas este domingo. Cuando han llegado los sanitarios, la víctima estaba en parada cardiorrespiratoria e inconsciente...</description>
             <category>Sociedad</category>
-            <pubDate>2023-01-22</pubDate>
+            <pubDate date="2023-01-22">Domingo, 22 Enero 2023</pubDate>
             <author>Patricia Peiró</author>
         </item>
         <item>
@@ -53,8 +107,9 @@
             <description><![CDATA[<img align="left" width="230" height="120" hspace="15" 
                 src="https://imagenes.elpais.com/resizer/GxIeZs7b5r-DtErZY8p4X2zVsEU=/980x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/7RR4IGWEIRGB3SZHGGLEOQAGLI.jpg"/>]]>Meta Platforms, empresa matriz de Facebook, ha acordado pagar 725 millones de dólares (682 millones de euros) para resolver una demanda colectiva que acusaba a la red social de compartir sin permiso datos de los usuarios...</description>
             <category>Política</category>
-            <pubDate>2023-02-28</pubDate>
+            <pubDate date="2023-02-28">Martes, 28 Febrero 2023</pubDate>
             <author>Manuel V.Gómez</author>
         </item>
+        
     </channel>
 </rss>
