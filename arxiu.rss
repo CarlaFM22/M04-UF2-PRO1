@@ -1,0 +1,60 @@
+<rss version="2.0">
+    <channel>
+        <title>Vanguàrdia</title>
+        <link>https://www.lavanguardia.com/</link>
+        <description>Pagina web de noticias</description>
+        <item>
+            <title>BBVA incrementa su dividendo</title>
+            <link>https://okdiario.com/economia/bbva-incrementa-dividendo-octubre-50-hasta-12-centimos-accion-9741976</link>
+            <description><![CDATA[<img align="left" width="230" height="120" hspace="15" 
+                src="https://okdiario.com/img/2022/09/14/c-655x368.jpg"/>]]>BBVA pagará el próximo día 11 de octubre a sus accionistas un dividendo en efectivo de 12 céntimos de euro brutos por acción a cuenta de los resultados del pasado ejercicio...</description>
+            <category>Economía</category>
+            <pubDate>2022-09-29</pubDate>
+            <author>Carlos García</author>
+        </item>
+        <item>
+            <title>Para Podemos, atracar bancos es un mérito</title>
+            <link>https://okdiario.com/opinion/podemos-atracar-bancos-merito-9873649</link>
+            <description>Por mucho que se ampare en el derecho a la reinserción, que Podemos pretenda que su líder en Madrid, Luis Nieto, conocido por su condena por atracar un banco, sea el número 3 en la lista de la formación morada al Ayuntamiento de Madrid...</description>
+            <category>Política</category>
+            <pubDate>2022-10-25</pubDate>
+            <author>Maria Lòpez</author>
+        </item>
+        <item>
+            <title>Brasil-Suiza: A vivir sin Neymar</title>
+            <link>https://okdiario.com/mundial/brasil-suiza-vivir-sin-neymar-10061264</link>
+            <description><![CDATA[<img align="left" width="230" height="120" hspace="15" 
+                src="https://okdiario.com/img/2022/11/27/previa-brasil-suiza-mundial-qatar-1800x1013-1-655x368.jpg"/>]]>Brasil afronta el día 1 sin un Neymar que habrá que ver si puede llegar al hipotético duelo de octavos de final del Mundial de Qatar. Para ello, los de Tite tendrán que sellar la clasificación y el duelo ante Suiza...</description>
+            <category>Deportes</category>
+            <pubDate>2022-11-28</pubDate>
+            <author>Luís Gomez</author>
+        </item>
+        <item>
+            <title>La matriz de Facebook pagará 725 millones de dólares para zanjar una demanda colectiva por Cambridge Analytica</title>
+            <link>https://elpais.com/economia/2022-12-27/la-matriz-de-facebook-pagara-725-millones-de-dolares-para-zanjar-una-demanda-colectiva-por-cambridge-analytica.html</link>
+            <description><![CDATA[<img align="left" width="230" height="120" hspace="15" 
+                src="https://imagenes.elpais.com/resizer/tNIpVaCgTSSUOp52XjVLO55KUVE=/980x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/JDW5GB2DQ5KONOQRPYOO7O7GTQ.jpg"/>]]>Meta Platforms, empresa matriz de Facebook, ha acordado pagar 725 millones de dólares (682 millones de euros) para resolver una demanda colectiva que acusaba a la red social de compartir sin permiso datos de los usuarios...</description>
+            <category>Cultura</category>
+            <pubDate>2022-12-27</pubDate>
+            <author>Ramon Hernandez</author>
+        </item>
+        <item>
+            <title>Un hombre de 55 años muere apuñalado en plena calle en Vallecas</title>
+            <link>https://elpais.com/espana/madrid/2023-01-22/un-hombre-de-55-anos-muere-apunalado-en-vallecas-en-plena-calle.html</link>
+            <description><![CDATA[<img align="left" width="230" height="120" hspace="15" 
+                src="https://imagenes.elpais.com/resizer/QC3GlLaJ_cdlzr5AiXSoTEZytkQ=/980x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/3KTJOMNNMSDTUFYOO4UO5LIBEI.jpg"/>]]>Un hombre de 55 años ha muerto a puñaladas en una calle del barrio madrileño de Villa de Vallecas este domingo. Cuando han llegado los sanitarios, la víctima estaba en parada cardiorrespiratoria e inconsciente...</description>
+            <category>Sociedad</category>
+            <pubDate>2023-01-22</pubDate>
+            <author>Patricia Peiró</author>
+        </item>
+        <item>
+            <title>La eurocámara veta el uso de TikTok en sus dispositivos a los diputados y empleados</title>
+            <link>https://elpais.com/internacional/2023-02-28/la-eurocamara-veta-el-uso-de-tiktok-en-sus-dispositivos-a-los-diputados-y-empleados.html</link>
+            <description><![CDATA[<img align="left" width="230" height="120" hspace="15" 
+                src="https://imagenes.elpais.com/resizer/GxIeZs7b5r-DtErZY8p4X2zVsEU=/980x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/7RR4IGWEIRGB3SZHGGLEOQAGLI.jpg"/>]]>Meta Platforms, empresa matriz de Facebook, ha acordado pagar 725 millones de dólares (682 millones de euros) para resolver una demanda colectiva que acusaba a la red social de compartir sin permiso datos de los usuarios...</description>
+            <category>Política</category>
+            <pubDate>2023-02-28</pubDate>
+            <author>Manuel V.Gómez</author>
+        </item>
+    </channel>
+</rss>

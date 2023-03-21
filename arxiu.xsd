@@ -5,19 +5,24 @@ elementFormDefault="qualified">
     <xs:element name="rss">
         <xs:complexType>
             <xs:sequence>
-                <xs:element name="channel" type="xs:string" maxOccurs="1"></xs:element>
-                <xs:element name="title" type="xs:string" maxOccurs="1"></xs:element>
-                <xs:element name="link" type="xs:string" maxOccurs="1"></xs:element>
-                <xs:element name="description" type="xs:string" maxOccurs="1"></xs:element>
-                <xs:element name="item" maxOccurs="unbounded">
+                <xs:element name="channel">
                     <xs:complexType>
                         <xs:sequence>
-                            <xs:element name="title" type="xs:string"></xs:element>
-                            <xs:element name="link" type="xs:string"></xs:element>
-                            <xs:element name="description" type="xs:string"></xs:element>
-                            <xs:element name="category" type="xs:string"></xs:element>
-                            <xs:element name="pubDate" type="xs:gYear"></xs:element>
-                            <xs:element name="author" type="xs:string"></xs:element>
+                            <xs:element name="title" type="xs:string" maxOccurs="1"></xs:element>
+                            <xs:element name="link" type="xs:string" maxOccurs="1"></xs:element>
+                            <xs:element name="description" type="xs:string" maxOccurs="1"></xs:element>
+                            <xs:element name="item" maxOccurs="unbounded">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="title" type="xs:string"></xs:element>
+                                        <xs:element name="link" type="xs:string"></xs:element>
+                                        <xs:element name="description" type="xs:string"></xs:element>
+                                        <xs:element name="category" type="xs:string"></xs:element>
+                                        <xs:element name="pubDate" type="xs:date"></xs:element>
+                                        <xs:element name="author" type="xs:string"></xs:element>
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
                         </xs:sequence>
                     </xs:complexType>
                 </xs:element>
