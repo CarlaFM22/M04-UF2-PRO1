@@ -1,0 +1,11 @@
+a) Muestra todos los títulos (con los tags) de las noticias que estén entre los meses de
+Noviembre y Febrero (incluidos los dos).
+
+//channel/item/pubDate[@date ]/title
+
+b) Muestra sólo el texto de las fechas de publicación de las noticias que sean del mismo año que
+la primera noticia del tema “Deportes”.
+c) Muestra los títulos (con los tags) de las noticias que tengan la misma categoría que la noticia
+más nueva.
+d) Muestra los títulos y los links (ambos con los tags) de las noticias con imágenes dentro de la
+descripción
