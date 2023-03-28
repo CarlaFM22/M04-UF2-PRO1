@@ -11,5 +11,10 @@ la primera noticia del tema “Deportes”.
 c) Muestra los títulos (con los tags) de las noticias que tengan la misma categoría que la noticia
 más nueva.
 
+//channel/item[category=//channel/item/pubDate[xs:date(@date)=max(//channel/item/pubDate/xs:date(@date))]/../category]/title
+
+
 d) Muestra los títulos y los links (ambos con los tags) de las noticias con imágenes dentro de la
 descripción
+
+//channel/item[contains(description,'jpg') or contains(description,'png')]/title|//channel/item[contains(description,'jpg') or contains(description,'png')]/link
