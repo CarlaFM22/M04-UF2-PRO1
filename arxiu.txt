@@ -3,18 +3,63 @@ Noviembre y Febrero (incluidos los dos).
 
 //channel/item/pubDate[@date > "2022-10-31" and @date < "2023-3-1"]/../title
 
+Resultat:
+
+<title>Brasil-Suiza: A vivir sin Neymar</title>
+<title>La matriz de Facebook pagará 725 millones de dólares para zanjar una demanda colectiva por Cambridge Analytica</title>
+<title>Un hombre de 55 años muere apuñalado en plena calle en Vallecas</title>
+<title>La eurocámara veta el uso de TikTok en sus dispositivos a los diputados y empleados</title>
+
 b) Muestra sólo el texto de las fechas de publicación de las noticias que sean del mismo año que
 la primera noticia del tema “Deportes”.
 
 //channel/item/pubDate[year-from-date(@date)=//channel/item[category="Deportes"][1]/pubDate/year-from-date(@date)]/text()
+
+Resultat:
+
+Jueves, 24 Marzo 2022
+Lunes, 25 Abril 2022
+Domingo, 29 Mayo 2022
+Miercoles, 22 Junio 2022
+Miercoles, 27 Julio 2022
+Martes, 30 Agosto 2022
+Jueves, 29 Septiembre 2022
+Martes, 25 Octubre 2022
+Lunes, 28 Noviembre 2022
+Martes, 27 Diciembre 2022
 
 c) Muestra los títulos (con los tags) de las noticias que tengan la misma categoría que la noticia
 más nueva.
 
 //channel/item[category=//channel/item/pubDate[xs:date(@date)=max(//channel/item/pubDate/xs:date(@date))]/../category]/title
 
+Resultat:
+
+<title>EE UU asegura que Rusia tiene desplegados más espías en México que en cualquier otro país</title>
+<title>EE UU ofrece a Rusia un intercambio de prisioneros para recuperar a la baloncestista Brittney Griner</title>
+<title>Para Podemos, atracar bancos es un mérito</title>
+<title>La eurocámara veta el uso de TikTok en sus dispositivos a los diputados y empleados</title>
 
 d) Muestra los títulos y los links (ambos con los tags) de las noticias con imágenes dentro de la
 descripción
 
 //channel/item[contains(description,'jpg') or contains(description,'png')]/title|//channel/item[contains(description,'jpg') or contains(description,'png')]/link
+
+Resultat:
+
+<title>Qué hará Elon Musk con Twitter<title>
+<link>https://elpais.com/tecnologia/2022-04-25/que-hara-elon-musk-con-twitter.html</link>
+<title>El Baskonia elimina al Valencia y jugará las semifinales de la ACB contra el Madrid</title>
+<link>https://elpais.com/deportes/2022-05-30/el-baskonia-elimina-al-valencia-y-jugara-las-semifinales-de-la-acb-contra-el-madrid.html</link>
+<title>El 41% de los adolescentes no sabe distinguir entre los mensajes de salud online verdaderos y los falsos</title>
+<link>https://okdiario.com/salud/41-adolescentes-no-sabe-distinguir-mensajes-salud-online-verdaderos-falsos-9583386</link>
+<title>BBVA incrementa su dividendo</title>
+<link>https://okdiario.com/economia/bbva-incrementa-dividendo-octubre-50-hasta-12-centimos-accion-9741976</link>
+<title>Brasil-Suiza: A vivir sin Neymar</title>
+<link>https://okdiario.com/mundial/brasil-suiza-vivir-sin-neymar-10061264</link> 
+<title>La matriz de Facebook pagará 725 millones de dólares para zanjar una demanda colectiva por Cambridge Analytica</title> 
+<link>https://elpais.com/economia/2022-12-27/la-matriz-de-facebook-pagara-725-millones-de-dolares-para-zanjar-una-demanda-colectiva-por-cambridge-analytica.html</link> 
+<title>Un hombre de 55 años muere apuñalado en plena calle en Vallecas</title>
+<link>https://elpais.com/espana/madrid/2023-01-22/un-hombre-de-55-anos-muere-apunalado-en-vallecas-en-plena-calle.html</link>
+<title>La eurocámara veta el uso de TikTok en sus dispositivos a los diputados y empleados</title>
+<link>https://elpais.com/internacional/2023-02-28/la-eurocamara-veta-el-uso-de-tiktok-en-sus-dispositivos-a-los-diputados-y-empleados.html</link>
